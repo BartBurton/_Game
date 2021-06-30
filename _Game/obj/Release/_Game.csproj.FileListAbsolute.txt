@@ -1,0 +1,2 @@
+D:\МусорВсякий\learn\тпки\Game\_Game\obj\Release\_Game.csprojAssemblyReference.cache
+D:\МусорВсякий\learn\тпки\Game\_Game\obj\Release\_Game.csproj.CoreCompileInputs.cache

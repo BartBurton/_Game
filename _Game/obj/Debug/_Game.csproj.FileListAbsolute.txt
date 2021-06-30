@@ -1,0 +1,12 @@
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\bin\Debug\_Game.exe.config
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\bin\Debug\_Game.exe.manifest
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\bin\Debug\_Game.application
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\bin\Debug\_Game.exe
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\bin\Debug\_Game.pdb
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.csprojAssemblyReference.cache
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.csproj.CoreCompileInputs.cache
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.exe.manifest
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.application
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.csproj.CopyComplete
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.exe
+D:\МусорВсякий\learn\тпки\Game\FlopyBirdGame\obj\Debug\_Game.pdb
